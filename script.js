@@ -61,8 +61,9 @@ const CONFIG = {
         groundOffset: 0,
 
         hitboxPaddingX: 50,
-        hitboxPaddingY: 50
+        hitboxPaddingY: 50,
 
+       
     },      
 
 
